@@ -1,0 +1,8 @@
+{
+  "max_fps": 5,
+  "offset": [
+    0,
+    -50
+  ],
+  "target": "mahilo"
+}

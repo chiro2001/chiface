@@ -1,0 +1,7 @@
+pyqt5
+colorlog
+opencv-python
+webbrowser
+numpy
+dlib
+psd_tools
